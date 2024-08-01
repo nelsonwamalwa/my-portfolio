@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wamalwa Simiyu Nelson - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            padding: 2em;
+        }
+        h2 {
+            color: #007BFF;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 1em;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Wamalwa Simiyu Nelson</h1>
+        <p>Software Engineer</p>
+    </header>
+
+    <section id="personal-info">
+        <h2>Personal Information</h2>
+        <ul>
+            <li>Gender: Male</li>
+            <li>Contact: 0715076055</li>
+            <li>Address: P.O BOX 15-50209, Malakisi, Kenya</li>
+            <li>Email: <a href="mailto:wamalwanelson@gmail.com">wamalwanelson@gmail.com</a></li>
+        </ul>
+    </section>
+
+    <section id="objective">
+        <h2>Objective</h2>
+        <p>Motivated and detail-oriented Junior Software Engineer with a solid foundation in Information Technology and programming languages, seeking an entry-level position to leverage academic knowledge and hands-on project experience...</p>
+    </section>
+
+    <!-- Add more sections for education, skills, work experience, etc., following the same structure -->
+
+</body>
+</html>
